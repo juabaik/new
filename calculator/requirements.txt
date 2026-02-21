@@ -1,0 +1,17 @@
+# Python Calculator Requirements
+# This file specifies the Python version and dependencies for the calculator project
+
+# Python version (minimum required)
+python>=3.11.0
+
+# GUI dependencies (if using tkinter, no additional packages needed)
+# tkinter is included with Python standard library
+
+# Optional: For enhanced functionality
+# math (included in standard library)
+# tkinter (included in standard library)
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For testing
+# black>=22.0.0  # For code formatting
+# flake8>=5.0.0  # For linting
